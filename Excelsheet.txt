@@ -1,12 +1,8 @@
 Lets do a completely new file
 
 hello world 
-
-Hallo
-
-Ook hallo - hallo
-
-This is changed indeed
+ new stuff
+ 
 
 They are merged in dev now - and back is deleted
 
