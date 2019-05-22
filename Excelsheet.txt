@@ -1,13 +1,9 @@
 Lets do a completely new file
 
 hello world 
-
-Hallo
-
-BIG CHANGES
+ new stuff
+ 
 
 They are merged in dev now - and back is deleted
 
-Come with new possibilities.
-
-Have you tried fishing as a hobby?
+again, but lets try pushing everything
